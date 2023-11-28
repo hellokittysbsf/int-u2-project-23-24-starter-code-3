@@ -1,6 +1,17 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: black;
-    color: white;
+   background-image:
+  url(https://i.gifer.com/Tn7v.gif);
+    color: #32CD32;
     padding: 128px 16px;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+.section {}
+body {
+  background-image: url("https://i.pinimg.com/originals/ca/46/53/ca4653f31c3a42c333c6578200b97be2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
 }
