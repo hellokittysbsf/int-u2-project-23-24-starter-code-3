@@ -2,16 +2,20 @@
 header {
    background-image:
   url(https://i.gifer.com/Tn7v.gif);
-    color: #32CD32;
+    color: limegreen;
     padding: 128px 16px;
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  
+  
 }
-.section {}
 body {
   background-image: url("https://i.pinimg.com/originals/ca/46/53/ca4653f31c3a42c333c6578200b97be2.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
+  
 }
